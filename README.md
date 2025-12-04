@@ -97,10 +97,4 @@ Identifies primary levers through correlation strength:
 
 Dark theme with cyan accents, glassmorphism cards, and smooth animations. Built for focus and clarity.
 
-## 📄 License
 
-MIT License
-
----
-
-Built with [Lovable](https://lovable.dev)
